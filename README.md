@@ -1,24 +1,25 @@
-# todoapp
+## SPA users
 
-## Project setup
-```
-npm install
-```
+SPA user
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+An application used for learn about router in vue, built with Vue, JavaScript, and TailwindCSS.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project Status
+Done
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation and Setup Instructions
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Start Server:
+
+`npm run serve`  
+
+To Visit App:
+
+`localhost:8080`  
